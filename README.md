@@ -37,11 +37,11 @@ Projeto desenvolvido como entrega final da 1ª turma do curso Imersão JavaScrip
 
 ## 💻 Questão problema
 
-  O ponto de partida foi o questionamento sobre de que forma a tecnologia pode contribuir para o alcance dos Objetivos de Desenvolvimento Sustentável(ODS) da agenda 2030. E diante das inúmeras possibilidades, (me detive) surgiu o seguinte questionamento: De que forma a tecnologia pode contribuir para o turismo sustentável?
+  O ponto de partida foi o questionamento sobre de que forma a tecnologia pode contribuir para o alcance dos Objetivos de Desenvolvimento Sustentável(ODS) da agenda 2030. E diante das inúmeras possibilidades, surgiu um segundo questionamento: De que forma a tecnologia pode contribuir para o turismo sustentável?
   
   Uma vez que o Turismo pode contribuir  de forma direta e indiretamente para todos os objetivos,e mais concretamente para os objetivos 8, 12 e 14 que estão relacionados com o desenvolvimento económico inclusivo e sustentável, o consumo e a produção sustentável e o uso sustentável dos oceanos e dos recursos marinhos.
   
-  Sendo que ações bem sucedidas no turismo em prol dos ODS se fortalecem quando a sustentabilidade é posta em prática, e por isso é importante tornar as alternativas sustentáveis ​​mais acessíveis aos viajantes.
+  Sendo que ações bem sucedidas no turismo em prol dos ODS se fortalecem quando a sustentabilidade é posta em prática, destacando a importância de promover o turismo sustentável e tornar as alternativas sustentáveis ​​mais acessíveis aos viajantes.
 
 
 ---
